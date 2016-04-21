@@ -14,6 +14,7 @@ Falta:
 * 11 - Carregar plano de atividades (Pinto)
 * 12 - Procurar informação complementar (Cecília)
 * 13 - Iniciar descoberta (Nuno)
+* ? - Terminar descoberta (Cláudia)
 * 14 - Gravar voz (Nuno)
 * 15 - Tirar fotografia (Nuno)
 * 16 - Terminar percurso (Cláudia)

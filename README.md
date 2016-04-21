@@ -17,4 +17,4 @@ Falta:
 * 15 - Tirar fotografia (Nuno)
 * 16 - Terminar percurso (Cláudia)
 * 17 - Guardar registos de atividades (Cláudia)
-* 18 - Guiar o investigador (Cláudia
+* 18 - Guiar o investigador (Cláudia)

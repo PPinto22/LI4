@@ -3,6 +3,7 @@ Use cases:
 
 Feitos:
 * 3 - Definir plano de atividades
+* 4 - Incluir informação adicional
 * 5 - Carregar registos de atividades
 * 6 - Consultar Mapa
 * 7 - Consultar relatórios *
@@ -15,7 +16,6 @@ Feitos:
 * 18 - Guiar o investigador
 
 Falta:
-* 4 - Incluir informação adicional (Nuno)
 * 9 - Gerar ficheiros xml (Pinto)
 * 11 - Carregar plano de atividades (Pinto)
 * 14 - Gravar voz (Nuno)

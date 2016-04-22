@@ -7,7 +7,7 @@ Feitos:
 Falta:
 * 3 - Definir plano de atividades (Nuno)
 * 4 - Incluir informação adicional (Nuno)
-* 5 - Carregar registos de atividaddes (Pinto)
+* 5 - Carregar registos de atividades (Pinto)
 * 7 - Consultar relatórios (Cecília)
 * 8 - Enviar relatórios (Cecília)
 * 9 - Gerar ficheiros xml (Pinto)

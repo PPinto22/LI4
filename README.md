@@ -12,7 +12,7 @@ Feitos:
 * 13 - Iniciar descoberta
 * 16 - Terminar percurso *
 * 17 - Guardar registos de atividades *
-* 18 - Guiar o investigador *
+* 18 - Guiar o investigador
 
 Falta:
 * 4 - Incluir informação adicional (Nuno)

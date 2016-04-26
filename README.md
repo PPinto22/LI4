@@ -14,9 +14,9 @@ Feitos:
 * 16 - Terminar percurso *
 * 17 - Guardar registos de atividades *
 * 18 - Guiar o investigador
+* 14 - Gravar voz
+* 15 - Tirar fotografia
+* 9 - Gerar configuracao xml
 
 Falta:
-* 9 - Gerar ficheiros xml (Pinto)
 * 11 - Carregar plano de atividades (Pinto)
-* 14 - Gravar voz (Nuno)
-* 15 - Tirar fotografia (Nuno)

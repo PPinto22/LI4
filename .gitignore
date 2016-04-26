@@ -46,3 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.vpp~*
+
+*.bak
+
+*.bak~1
+
+*.vux

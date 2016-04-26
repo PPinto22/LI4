@@ -8,7 +8,7 @@ Feitos:
 * 6 - Consultar Mapa
 * 7 - Consultar relatórios
 * 8 - Enviar relatórios
-* ? - Terminar descoberta *
+* ? - Terminar descoberta * isto vai ca piça
 * 12 - Procurar informação complementar *
 * 13 - Iniciar descoberta
 * 16 - Terminar percurso *

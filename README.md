@@ -6,7 +6,7 @@ Feitos:
 * 4 - Incluir informação adicional
 * 5 - Carregar registos de atividades
 * 6 - Consultar Mapa
-* 7 - Consultar relatórios *
+* 7 - Consultar relatórios
 * 8 - Enviar relatórios *
 * ? - Terminar descoberta *
 * 12 - Procurar informação complementar *

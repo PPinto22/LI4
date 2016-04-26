@@ -9,7 +9,7 @@ Feitos:
 * 7 - Consultar relatórios
 * 8 - Enviar relatórios
 * ? - Terminar descoberta * isto vai ca piça
-* 12 - Procurar informação complementar *
+* 12 - Ver informação complementar
 * 13 - Iniciar descoberta
 * 16 - Terminar percurso *
 * 17 - Guardar registos de atividades *

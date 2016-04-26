@@ -8,9 +8,10 @@ Feitos:
 * 6 - Consultar Mapa
 * 7 - Consultar relatórios
 * 8 - Enviar relatórios
-* ? - Terminar descoberta * isto vai ca piça
+* ? - Terminar descoberta * isto vai ca piça (fica descrito em "registar descoberta")
+* 11 - Carregar plano de atividades
 * 12 - Ver informação complementar
-* 13 - Iniciar descoberta
+* 13 - Registar descoberta
 * 16 - Terminar percurso *
 * 17 - Guardar registos de atividades *
 * 18 - Guiar o investigador
@@ -19,4 +20,3 @@ Feitos:
 * 9 - Gerar configuracao xml
 
 Falta:
-* 11 - Carregar plano de atividades (Pinto)

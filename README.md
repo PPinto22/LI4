@@ -12,8 +12,8 @@ Feitos:
 * 11 - Carregar plano de atividades
 * 12 - Ver informação complementar
 * 13 - Registar descoberta
-* 16 - Terminar percurso *
-* 17 - Guardar registos de atividades *
+* 16 - Terminar percurso
+* 17 - Guardar registos de atividades
 * 18 - Guiar o investigador
 * 14 - Gravar voz
 * 15 - Tirar fotografia

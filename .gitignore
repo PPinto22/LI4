@@ -47,8 +47,4 @@ Temporary Items
 .apdisk
 *.vpp~*
 
-*.bak
-
-*.bak~1
-
-*.vux
+*.bak~*

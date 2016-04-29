@@ -4,10 +4,10 @@ Diagramas de sequencia:
 Feitos:
 * 3 - Definir plano de atividades - PP
 * 4 - Incluir informação adicional - PP
+* 5 - Carregar registos de atividades - Nuno
+* 6 - Consultar Mapa - PP
 
 Falta:
-* 5 - Carregar registos de atividades - ??
-* 6 - Consultar Mapa - ??
 * 7 - Consultar relatórios - ??
 * 8 - Enviar relatórios - ??
 * 11 - Carregar plano de atividades - ??

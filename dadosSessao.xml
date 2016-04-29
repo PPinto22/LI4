@@ -1,4 +1,5 @@
 <sessao>
+	<data ano=AAAA mes=MM dia=DD hora=hh minuto=mm />
 	<atividade>
 		<localizacao longitude = X latitude = Y />
 		<objetivos>

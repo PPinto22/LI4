@@ -6,11 +6,6 @@
 			<objetivo>Objetivo 1</objetivo>
 			<objetivo>Objetivo 2</objetivo>
 		</objetivos>
-		<informacao>
-			<notas>Notas do utilizador</notas>
-			<link>String1 html</link>
-			<link>String2 html</link>
-		</informacao>
 		<registo>
 			<fotografias>
 				<fotografia>Dados</fotografia>
